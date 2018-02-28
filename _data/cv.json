@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Christopher Thomas",
+    "label": "Computer Scientist",
+    "picture": "",
+    "email": "cthomas@onhaven.net",
+    "phone": "(425) 394-3100",
+    "website": "https://faore.github.io",
+    "summary": "Chris graduated from Montana State University in December 2017 and is a computer scientist interested in modern web applications and systems administration.",
+    "location": {
+      "postalCode": "93038",
+      "city": "Maple Valley",
+      "countryCode": "US",
+      "region": "Washington"
+    }
+  },
+  "work": [
+    {
+      "company": "Montana State University",
+      "position": "Help Desk Computer Consultant",
+      "website": "http://www.montana.edu/resnet",
+      "startDate": "2013",
+      "endDate": "2017",
+      "summary": "Provided technical support to students and staff in person, over the phone, and on site at offices and residencies. Developed web applications, and services.",
+      "highlights": [
+        "Developed web applications and scripts to streamline common help desk problems and improve communication with customers",
+        "Diagnosed and repaired hardware and software of a large variety of devices",
+        "Handled deployment of new devices",
+        "Performed security audits"
+      ]
+    },
+    {
+      "company": "Montana State University",
+      "position": "Mobile and Web Development Internship",
+      "website": "http://www.montana.edu/resnet",
+      "startDate": "July 2016",
+      "endDate": "December 2016",
+      "summary": "Developed and prototyped internal mobile application and web application in a small group.",
+      "highlights": [
+        "Developed a mobile application using web technologies and Ionic/Apache Cordova",
+        "Developed an API and management web application using the Laravel MVC Framework"
+      ]
+    },
+    {
+      "company": "Künstler Sekretariat am Gasteig",
+      "position": "Web Application Developer",
+      "website": "http://www.juliafischer.com",
+      "startDate": "January 2017",
+      "endDate": "December 2017",
+      "summary": "Developed a new website and subscription service for violinist Julia Fischer.",
+      "highlights": [
+        "Developed a web application using Sinatra on Ruby",
+        "Developed a design with the client using Bootstrap, SASS, jQuery and other technologies",
+        "Created an asset pipeline to manage javascript and CSS",
+        "Created a content management system",
+        "Integrated with Stripe to handle subscriptions and payments"
+      ]
+    },
+  ],
+  "education": [
+    {
+      "institution": "Montana State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "January 2013",
+      "endDate": "December 2017",
+      "gpa": "3.5",
+      "courses": [
+        "CSCI 351 - Systems Administration",
+        "CSCI 440 - Database Systems",
+        "CSCI 446 - Artificial Intelligence",
+        "CSCI 460 - Operating Systems",
+        "CSCI 466 - Networks",
+        "CSCI 476 - Computer Security"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "College of Engineering Dean's List",
+      "date": "2016 - 2017"
+    },
+    {
+      "title": "College of Letters and Science Dean's List",
+      "date": "Spring 2013"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "keywords": [
+        "Laravel",
+        "MVC",
+        "SCSS",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
+        "Gradle",
+        "Maven",
+        "JavaFX"
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+        "Windows Services",
+        "Windows Presentation Foundation"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Modern Web Applications",
+      "keywords": [
+        "MVC development",
+        "Laravel",
+        "Rails",
+        "HTML5",
+        "JavaScript Stack",
+        "React"
+      ]
+    },
+    {
+      "name": "Systems Administration",
+      "keywords": [
+        "Debian",
+        "RHEL",
+        "Firewalls",
+        "Windows Server",
+        "Active Directory",
+        "Group Policy"
+      ]
+    },
+  ]
+}
